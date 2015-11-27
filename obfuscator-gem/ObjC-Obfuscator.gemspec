@@ -18,7 +18,7 @@ Gem::Specification.new do |s|
 
   s.add_runtime_dependency 'encryptor', '~> 1.3.0'
   s.add_runtime_dependency 'thor', '~> 0.18.1'
-  s.add_runtime_dependency 'xcodeproj', '~> 0.20.0'
+  s.add_runtime_dependency 'xcodeproj', '~> 0.26.0'
 
   s.add_development_dependency 'rspec', '~> 2.13.0'
   s.add_development_dependency 'rake', '~> 10.0.3'
